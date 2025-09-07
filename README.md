@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there 👋, Yo İm harun
+#### Developer with experience in web applications, automation, and open-source contributions.
+I am a software developer focused on building Minecraft plugins, Discord bots, and web applications. Passionate about clean code, problem-solving, and continuous learning.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: 🌐 VUE JS / REACT / JS / HTML / CSS / 🐍 PYTHON / 🐘 PHP / 🗄️ SQL / ⚡ NODE JS / 🤖 DISCORD BOT / ☕ JAVA / 🖥️ C# / 🐱 C++ / 🐍 DJANGO / 🌿 FLASK / 🐙 GIT / 📦 NPM / 🐳 DOCKER / ☁️ AWS
 
 - 🔭 I’m currently working on this page. 
 
@@ -20,4 +20,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/Sevrel)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sevrel)  
+
 
